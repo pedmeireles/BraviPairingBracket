@@ -99,9 +99,6 @@ public class pairingBracket {
 	}
 	public static void main(String[] args) {
 		
-		// TODO Auto-generated method stub
-		System.out.println("Hello world!");
-		
 		while(keepProgram()) {
 			System.out.println("enter the bracket string that must be evaluate");
 			Scanner scan = new Scanner(System.in);
