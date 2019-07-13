@@ -54,6 +54,6 @@ The compilation process works inside the docker, so don't worry about it.
 
 # How it works
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Flow Chart of the execution of the program. ")
+![alt text](https://github.com/pedmeireles/BraviPairingBracket/blob/master/pairBrackets.png "Flow Chart of the execution of the program. ")
 
 
